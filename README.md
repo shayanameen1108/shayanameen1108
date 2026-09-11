@@ -1,4 +1,4 @@
-# Shayan Fareed
+# Shayan
 
 Product Engineer
 
